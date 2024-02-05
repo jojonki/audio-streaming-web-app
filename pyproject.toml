@@ -1,0 +1,10 @@
+[tool.isort]
+profile = "black"
+
+[tool.black]
+line-length = 119
+# skip-string-normalization = true  # not ' -> "
+
+[tool.flake8]
+max-line-length = 119
+ignore = "E203, E501, W503" # for black compatibility
