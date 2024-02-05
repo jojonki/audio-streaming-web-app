@@ -31,7 +31,7 @@ If you find this repository useful in your research, please consider citing my w
 
 ```
 @misc{Ohmura2024,
-  author = {Junki Ohmura.},
+  author = {Junki Ohmura},
   title = {Audio Streaming Web App},
   year = {2024},
   publisher = {GitHub},
